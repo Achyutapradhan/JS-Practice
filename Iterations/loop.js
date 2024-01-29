@@ -16,13 +16,4 @@
    console.log(greet)
  } */
 
- //Maps
- const map=new Map()
- map.set('IN',"India") //only put unique value if we put any duplicate value then map ( wont consider that).
- map.set('USA',"America")
- console.log(map);
- for(const [key,value] of map)
- {
-   // console.log(key) it will directly print the value
- console.log(key,':-',value) 
-}
+ 
