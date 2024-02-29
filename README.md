@@ -17,5 +17,5 @@ To get started with JS-Practice, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/JS-Practice.git
+   git clone https://github.com/Achyutapradhan/JS-Practice.git
 
